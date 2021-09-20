@@ -126,6 +126,8 @@ p {
 .table__container img {
     height: 70%;
     width: auto;
+    height: 300px;
+
 }
 
 .table__container a {

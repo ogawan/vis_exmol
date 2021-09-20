@@ -19,7 +19,7 @@ server = app.server
 DATA_PATH = pathlib.Path(__file__).parent.joinpath("data").resolve()
 
 # read from datasheet
-df = pd.read_csv(DATA_PATH.joinpath("small_molecule_drugbank_test.csv"))
+df = pd.read_csv(DATA_PATH.joinpath("data.csv"))
                  
 
 #.drop(
