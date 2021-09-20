@@ -52,7 +52,7 @@ app.layout = html.Div(
                         html.Div(
                             [
                                 html.H3(
-                                    "Drug discovery using EXMOL: ",
+                                    "Counterfactual exploration using EXMOL ",
                                     className="uppercase title",
                                 ),
                                 html.Span("Hover ", className="uppercase bold"),
